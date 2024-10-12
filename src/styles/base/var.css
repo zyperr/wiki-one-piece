@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital@0;1&display=swap');
+
+:root{
+    --font-family: "Roboto Mono", monospace;
+    --font-size: 16px;
+    --bg-header:#F42A03;
+    --bg-items:#000000;
+    --border-color-items:#f42a03;
+    --font-color:#ffffff;
+    --font-color-less:#9c9b9b;
+    --font-size-mobile: 11px;
+    --font-size-tablet: 12px;
+    --font-size-desktop: 13px;
+}

@@ -1,0 +1,13 @@
+@import url("./var.css");
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--font-family);
+    color: var(--font-color);
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}

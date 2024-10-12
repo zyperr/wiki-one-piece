@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    background-color: var(--bg-header);
+    padding-left:20px ;
+    .header_logo{
+        flex-flow: row wrap;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        .header_logo_img{
+            height: 50px;
+        }
+        .header_logo_text{
+            font-size: 20px;
+            font-weight: 700;
+        }
+    }
+}
